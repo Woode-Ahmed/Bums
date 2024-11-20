@@ -1,0 +1,12 @@
+{
+  "maxMineLevel": 10,
+  "Task": true,
+  "Mine": true,
+  "Delays": {
+    "betweenCollect": 5,
+    "betweenTask": 5,
+    "betweenMine": 5,
+    "betweenAccount": 5,
+    "nextCycle": 3600
+  }
+}
